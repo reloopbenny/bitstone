@@ -4,7 +4,7 @@ This is a new cryptonote based POW coin!
 * Supported miners: GPU/CPU
 * Fast transactions
 
-## CryptoNote forking how-to
+## Bitstone from the cryptomine:)
 
 ### Preparation
 
